@@ -13,7 +13,7 @@ struct ContentView: View {
             .padding()
     }
 }
-
+//someting saometihng
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
